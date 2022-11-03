@@ -1,1 +1,1 @@
-Bash script to install important Linux tools on CentOS and Ubuntu
+Bash scripts to install Linux tools on CentOS and Ubuntu
