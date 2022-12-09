@@ -6,5 +6,4 @@ sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubun
 apt-cache policy docker-ce -y
 sudo apt install docker-ce -y
 sudo apt install docker-compose -y
-sudo systemctl status docker
 sudo usermod -aG docker ${USER}
